@@ -1,0 +1,10 @@
+{
+  "name": "Travel Eye",
+  "short_name": "Travel Eye",
+  "description": "Explore historic monuments with your lens",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fff8f0",
+  "theme_color": "#c2410c",
+  "orientation": "portrait"
+}
